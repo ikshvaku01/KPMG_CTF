@@ -10,7 +10,7 @@ This is a Repository Containing all the Task given during the **Capture the Flag
 |                       Cloud Pentest                       | STATUS |
 |:----------------------------------------------------------|:------:|
 | [Secure Storage Showdown](Secure%20Storage%20Showdown.md) |     ✔   |
-| [Policy Patrol - IAM Intelligence](Policy%20Patrol%20-%20IAM%20Intelligence.md)     |  ❌      |
+| [Policy Patrol - IAM Intelligence](Policy%20Patrol%20-%20IAM%20Intelligence.md)     |  ✔      |
 
 |        Cryptography                       | STATUS |
 |:------------------------------------------|:------:|
@@ -44,7 +44,7 @@ This is a Repository Containing all the Task given during the **Capture the Flag
 |                                      Reverse Engineering                                      | STATUS |
 |:----------------------------------------------------------------------------------------------|:------:|
 |             [Unveiling the Hidden Message](Unveiling%20the%20Hidden%20Message.md)             | ✔      |
-| [Binary Cryptogram - unravel the enigma](Binary%20Cryptogram%20-%20unravel%20the%20enigma.md) | ❌     |
+| [Binary Cryptogram - unravel the enigma](Binary%20Cryptogram%20-%20unravel%20the%20enigma.md) | ✔     |
 |                  [Binary Flow Manipulation](Binary%20Flow%20Manipulation.md)                  | ❌     |
 
 | Web Application Pentest                         | STATUS |
