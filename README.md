@@ -32,7 +32,7 @@ This is a Repository Containing all the Task given during the **Capture the Flag
 
 |                     Miscellaneous                     | STATUS |
 |:------------------------------------------------------|:------:|
-|       [Zipper is Stuck](Zipper%20is%20Stuck.md)       |   ❌   |
+|       [Zipper is Stuck](Zipper%20is%20Stuck.md)       |   ✔   |
 | [NO remorse No regret](NO%20remorse%20No%20regret.md) |   ❌   |
 
 | OSINT | STATUS |
