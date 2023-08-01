@@ -1,7 +1,7 @@
 ## Task:
 Decrypt the ciphertext encrypted using an unknown cipher. Your mission is to apply various cryptanalysis techniques and pattern recognition to crack the cipher and reveal the hidden Flag.
 
-![](Cipher.txt)
+[Cipher](Resources%20provided/Cipher.txt)
 
 ```txt
 PKNT vmgrgrvh rm Rmwrz ziv vhgzyorhsvw fmwvi gsv ozdh lu Rmwrz zmw ziv ldmvw zmw nzmztvw (zh gsv xzhv nzb yv) yb vhgzyorhsvw Rmwrzm kiluvhhrlmzoh. Vhgzyorhsvw rm Zftfhg 1993, gsv PKNT vmgrgrvh szev izkrwob yfrog z hrtmrurxzmg xlnkvgrgrev kivhvmxv rm gsv xlfmgib. Glwzb dv lkvizgv uiln luurxvh zxilhh 14 xrgrvh rmxofwrmt rm Zsnvwzyzw, Yvmtzofif, Xszmwrtzis, Xsvmmzr, Tfiftizn, Sbwvizyzw, Qzrkfi, Plxsr, Plopzgz, Nfnyzr, Mlrwz, Kfmv, Ezwlwziz zmw Erqzbzdzwz. Lfi tolyzo zkkilzxs gl hvierxv wvorevib svokh kilerwv ezofv-zwwvw hvierxvh gl xorvmgh.

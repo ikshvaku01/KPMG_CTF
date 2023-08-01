@@ -2,7 +2,7 @@
 
 In the distant future, on the mysterious planet of Zenthia, a lone adventurer named Maya discovered an ancient artifact known as the XORbit. This enigmatic device held immense power and could only be activated with a single character key. As she embarked on a perilous quest to decipher the code, dark forces from across the galaxy pursued her, eager to harness the XOR bit's abilities for their malevolent intentions. Help her decrypt the message
 
-![](Cipher-XOR.txt)
+[Cipher XOR](Resources%20provided/Cipher-XOR.txt)
 
 XOR CIPHER IN THE FILE :
 ```txt

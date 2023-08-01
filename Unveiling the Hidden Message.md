@@ -2,7 +2,7 @@
 The objective of this challenge is to reverse engineer a given binary executable file and extract flag embedded within the program.
 Payload binary executable:
 
-![](payload)
+[Payload](Resources%20provided/payload)
 
 ## Points : 100
 
