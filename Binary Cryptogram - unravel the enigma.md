@@ -44,3 +44,10 @@ A notorious organization, "The Enigma Syndicate," has sent encrypted messages de
   <li>All this code does is check wether or not the program  has the argument "error" when executed.If it has it simply decrypts and prints the Flag   </li>
   <li>So finally we get the Flag by executing the binary like this  <pre> ./Enigma_Binary error</pre></li>
 </ol>
+
+```bash
+./Enigma_Binary "error"
+Decrypted Flag: KPMG_CTF{be441ba8020e7ea99cd879b156db1e79}
+```
+
+Alternative Method to Solve using [Binary Ninja Cloud](https://cloud.binary.ninja/) -> [Binary Cryptography - Unravel the Engima](https://github.com/shashankk90/Writeups/blob/master/KPMG/Binary%20Cryptogram%20-%20Unravel%20the%20Enigma.md)

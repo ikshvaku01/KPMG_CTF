@@ -19,20 +19,20 @@ This is a Repository Containing all the Task given during the **Capture the Flag
 
 | Hardware | STATUS |  SOLVED BY |
 |:---------|:------:|:---------:|
-| [Live Overflow the side channel](Live%20Overflow%20the%20side%20channel.md)     | ❌  |  |
+| [Live Overflow the side channel](Live%20Overflow%20the%20side%20channel.md)     | ✔  | [Shashankk90](https://github.com/shashankk90/Writeups/blob/master/KPMG/Live%20Overflow%20the%20side%20channel.md) |
 
 |                     Infrastructure Security Assessment                      | STATUS | SOLVED BY |
 |:----------------------------------------------------------------------------|:------:|:---------:|
-|             [The forbidden telnet](The%20forbidden%20telnet.md)             |   ✔    | [Yash Singh Bajetha](https://github.com/ikshvaku01/)   |
-|                   [All Hail Hydra](All%20Hail%20Hydra.md)                   |   ❌   |    |
+|[The forbidden telnet](The%20forbidden%20telnet.md)             |   ✔    | [Yash Singh Bajetha](https://github.com/ikshvaku01/)   |
+|[All Hail Hydra](All%20Hail%20Hydra.md)                   |   ✔   |  [Shashankk90](https://github.com/shashankk90/Writeups/blob/master/KPMG/All%20hail%20Hydra.md)  |
 |              [OTP Portal Intrigue](OTP%20Portal%20Intrigue.md)              |   ✔    | [Yash Singh Bajetha](https://github.com/ikshvaku01/)   |
-| [Time Traveler's Git (Part 1 )](Time%20Traveler's%20Git%20(Part%201%20).md) |   ❌   |    |
+| [Time Traveler's Git (Part 1 )](Time%20Traveler's%20Git%20(Part%201%20).md) |   ✔   |  [Shashankk90](https://github.com/shashankk90/Writeups/blob/master/KPMG/Time%20Traveller's%20Git%20(Part%201).md)  |
 |   [Time Traveler's Git (Part 2)](Time%20Traveler's%20Git%20(Part%202).md)   |   ❌   |    |
 
 |                     Miscellaneous                     | STATUS | SOLVED BY |
 |:------------------------------------------------------|:------:|:--------:|
 |       [Zipper is Stuck](Zipper%20is%20Stuck.md)       |   ✔   | [Deluca](https://github.com/Ying-Delusion)   |
-| [NO remorse No regret](NO%20remorse%20No%20regret.md) |   ❌   |    |
+| [NO remorse No regret](NO%20remorse%20No%20regret.md) |   ✔   | [Shashankk90](https://github.com/shashankk90/Writeups/blob/master/KPMG/No%20remorse%2C%20No%20regret.md)  |
 
 | OSINT | STATUS | SOLVED BY |
 |:-----|:------:|:----------:|
