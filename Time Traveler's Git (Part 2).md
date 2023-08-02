@@ -6,3 +6,7 @@ You are a time traveler who stumbled upon an ancient Git repository containing v
 ## Points : 200
 
 ## Solution:
+Continuing from part 1, just invoke a zsh shell by typing ```zsh```, it is already configured to run as root.
+You can check your username using ```whoami```
+
+read the contents of flag by ```cat /root/root.txt```
