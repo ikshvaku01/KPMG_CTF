@@ -55,6 +55,6 @@ This is a Repository Containing all the Task given during the **Capture the Flag
 
 |  Metaverse  | STATUS | SOLVED BY |
 |:------------|:------:|:---------:|
-| [Metaquest](Metaquest.md)   |   ❌   |   |
+| [Metaquest](Metaquest.md)   |   ✔   | [Surya Pratap Singh Chauhan](https://github.com/brodante/) |
 | [Trailblazer](Trailblazer.md) |   ❌   |    |
 
