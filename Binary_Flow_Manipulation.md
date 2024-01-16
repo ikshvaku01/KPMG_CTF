@@ -7,21 +7,29 @@ A notorious organization, "The Enigma Syndicate," has sent encrypted messages de
 ## Points: 400
 
 ## Solution:
-atfirst install radare2 and ghidra then move to the directory where the payload3 present
+at first install <br>radare2 </br> and <br>ghidra</br> then move to the directory where the payload3 present
 now execute all command one by one
+```bash
 r2 -d Payload3
 aaa
 aaaa
 afl
+```
 now copy address of sym.Secret_Function  from this line only copy the address which is in hex [0x080491ef    4 216          sym.Secret_Function]
 now execute
+```bash
 pdf @sym.ReadInput
+```
 now copy address of puts function call within this function [  0x080492ef      e85cfdffff     call sym.imp.puts           ; int puts(const char *s)] from this line only copy the hex address
-now wxcute 
+now excute
+```bash 
 s 0x080492ef 
+```
 now execute 
+```bash
 wa call 0x080491ef
 dc
+```
 you got the flag.......
 
 take help from this screenshots
