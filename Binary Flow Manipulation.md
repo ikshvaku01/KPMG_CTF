@@ -25,6 +25,6 @@ dc
 you got the flag.......
 
 take help from this screenshots
-![radare2 page](/home/soham/Downloads/kpmg_ctf/KPMG_CTF/screenshot_for_binary_flow_manipulation/Screenshot_2024-01-16_17_35_43.png)
-![ghidra page after analysis](/home/soham/Downloads/kpmg_ctf/KPMG_CTF/screenshot_for_binary_flow_manipulation/Screenshot_2024-01-16_17_40_44.png)
-![flag](/home/soham/Downloads/kpmg_ctf/KPMG_CTF/screenshot_for_binary_flow_manipulation/Screenshot_2024-01-16_17_45_58.png)
+![radare2 page](screenshot_for_binary_flow_manipulation/Screenshot_2024-01-16_17_35_43.png)
+![ghidra page after analysis](screenshot_for_binary_flow_manipulation/Screenshot_2024-01-16_17_40_44.png)
+![flag](screenshot_for_binary_flow_manipulation/Screenshot_2024-01-16_17_45_58.png)
