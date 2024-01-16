@@ -7,7 +7,7 @@ A notorious organization, "The Enigma Syndicate," has sent encrypted messages de
 ## Points: 400
 
 ## Solution:
-at first install <br>radare2 </br> and <br>ghidra</br> then move to the directory where the payload3 present
+at first install <br><strong>radare2</strong> </br> and <br><strong>ghidra</strong></br> then move to the directory where the payload3 present
 now execute all command one by one
 ```bash
 r2 -d Payload3
