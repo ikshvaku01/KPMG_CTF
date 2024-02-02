@@ -44,7 +44,7 @@ This is a Repository Containing all the Task given during the **Capture the Flag
 |:----------------------------------------------------------------------------------------------|:------:|:-----:|
 | [Unveiling the Hidden Message](Unveiling%20the%20Hidden%20Message.md)                         | ✔     | [Yash Singh Bajetha](https://github.com/ikshvaku01/) |
 | [Binary Cryptogram - unravel the enigma](Binary%20Cryptogram%20-%20unravel%20the%20enigma.md) | ✔     | [Nytik Birudavolu](https://github.com/iamnytik)  |
-| [Binary Flow Manipulation](Binary%20Flow%20Manipulation.md)                                   | ❌    |    |
+| [Binary Flow Manipulation](Binary%20Flow%20Manipulation.md)                                   | ✔     | [Soham Chakrabortty](https://github.com/milky-way2)   |
 
 | Web Application Pentest                         | STATUS | SOLVED BY |
 |:------------------------------------------------|:------:|:---------:|
